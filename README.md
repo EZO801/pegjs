@@ -4,6 +4,7 @@
 [![dev](https://img.shields.io/npm/v/pegjs/dev.svg)](https://github.com/pegjs/pegjs)
 [![bower](https://img.shields.io/bower/v/pegjs.svg)](https://github.com/pegjs/bower)
 [![license](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpegjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpegjs?ref=badge_shield)
 
 PEG.js is a simple parser generator for JavaScript that produces fast parsers with excellent error reporting. You can use it to
 process complex data or computer languages and build transformers, interpreters, compilers and other tools easily.
@@ -695,3 +696,7 @@ It's also a good idea to check out the [gulpfile.js](https://github.com/pegjs/pe
 various tasks that are commented with a description of each task.
 
 To see the list of contributors check out the [repository's contributors page](https://github.com/pegjs/pegjs/graphs/contributors).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpegjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpegjs?ref=badge_large)
